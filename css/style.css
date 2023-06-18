@@ -10,3 +10,9 @@ h1{
 nav li {
     display: inline-block;
 }
+
+nav a {
+    color: #000;
+    text-decoration: none;
+    padding: 10px;
+}
