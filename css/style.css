@@ -1,0 +1,12 @@
+body {
+    font-family: 'Open Sans', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #d40404;
+}
+
+nav li {
+    display: inline-block;
+}
