@@ -11,3 +11,8 @@ The e-commerce store for rain jackets combines functionality and aesthetic appea
 Built with;
 HTML
 CSS
+
+Contact:
+Linkedin:
+Ukonu Idika.
+Student at Noroff.
