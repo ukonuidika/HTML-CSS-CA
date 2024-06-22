@@ -2,7 +2,7 @@
 
 ## Title:
 
-## Rainy Days 
+Rainy Days 
 
 ## - Overview:
 My e-commerce store is a user-friendly platform for purchasing high-quality rain jackets. The store caters to all sizes and genders, including a dedicated section for children's rain jackets.
