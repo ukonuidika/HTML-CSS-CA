@@ -1,5 +1,7 @@
 ## Rainy Days 
 
+<img src="./Assets/images/RainyDaysScreenShot.png" ait="RainyDaysScreenShot" style="width: 80%;">
+
 My e-commerce store is a user-friendly platform for purchasing high-quality rain jackets. The store caters to all sizes and genders, including a dedicated section for children's rain jackets.
 
 [Live site](https://monumental-kangaroo-98117a.netlify.app/)
